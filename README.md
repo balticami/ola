@@ -32,7 +32,13 @@ criquelmea5@estudiante.uc.cl (balticami)
 cocaranzav@estudiante.uc.cl  (c0ni-c)
 
 
-
+## APORTE DE CADA UNA:
+* código en PYTON (cami)
+* INFORME (coni)
+* INFORMACION (CONFIDENCIAL) (las 2)
+* README (coni)
+* etc etc... (vean la pauta jsjs) (las 2)
+* DATOS PERSONALES (las 2)
 
 
 
