@@ -23,7 +23,6 @@ Acabas de entrar a un lugar tan poderoso, tan misterioso, tan... inusualmente ge
 | NOMBRE  | APELLIDO   | CORREO    |
 |---------|------------|-----------|
 |Camila   | Riquelme        |git: cami.riquelme27@gmail.com |
-|
 |Constanza|  Ocaranza |git: conitabelen2017@gmail.com        |
 |
 |correo UNIVERSIDAD:
